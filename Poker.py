@@ -119,7 +119,7 @@ class Player:
     def evaluate_cards(self,table):
         total_cards = self.hand+table.visible_cards
 
-        # I guess here goes the strategy
+        # I guess here goes the state evaluation
 
 
 
